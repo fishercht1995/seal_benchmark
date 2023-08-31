@@ -4,7 +4,12 @@
 
 * fibonacci
 * floatOperation
+* linpack
+* matmul
+* pyaes
 * featureExtractor
+* dynamicHtml
 * graphBfs
 * graphMst
 * graphPagerank
+* logisticRegression
